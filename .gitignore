@@ -1,3 +1,8 @@
+airflow_data/*
+!airflow_data/.gitkeep
+shared_folder/*
+!shared_folder/.gitkeep
+files_hw_DE*
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
