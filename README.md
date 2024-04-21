@@ -30,8 +30,8 @@
 * Enable dags:
 
   ```bash
-  airflow dags unpause Makhonin_Alex_HW_DAG_Bonus
-  airflow dags unpause Makhonin_Alex_HW_DAG
+  poetry run airflow dags unpause Makhonin_Alex_HW_DAG_Bonus
+  poetry run airflow dags unpause Makhonin_Alex_HW_DAG
   ```
 
 ## Results basic
